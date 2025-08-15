@@ -35,19 +35,6 @@ A fun, category-based, hangman-style game built with **Python** and **Tkinter**,
 3. **Guess before your attempts run out**  
 4. Celebrate with a happy emoji… or learn from the sad one 😄
 
----
-
-## 📌 Future Improvements
-- 🆕 Add more categories (Countries, Sports, Movies)
-- 🎵 Add background music & sound effects
-- 📱 Mobile-friendly version with **Kivy**
-
----
-
-## 📜 License
-This project is licensed under the MIT License – feel free to use and modify.
-
----
 
 💡 *Have fun becoming the ultimate Word Wizard!* 🪄
 
